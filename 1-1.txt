@@ -1,0 +1,3 @@
+2D background
+new 2 monster
+close anime
